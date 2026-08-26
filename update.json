@@ -1,0 +1,8 @@
+{
+  "app_status": true,
+  "app_testers": [],
+  "game_version": "17.0",
+  "full_list_url": "https://raw.githubusercontent.com/Xeroint-Technologies/x-samp-mobile/main/data/full.json",
+  "lite_list_url": "https://raw.githubusercontent.com/Xeroint-Technologies/x-samp-mobile/main/data/lite.json",
+  "samp_list_url": "https://raw.githubusercontent.com/Xeroint-Technologies/x-samp-mobile/main/data/samp.json"
+}
