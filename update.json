@@ -2,6 +2,13 @@
   "app_status": true,
   "app_testers": [],
   "game_version": "17.0",
+
+  "data_version": "1",
+  "data_zip_url": "URL-DOWNLOAD-DATA-GTA-DISINI",
+  "data_zip_size": 0,
+  "data_install_size": 0,
+  "data_zip_sha256": "",
+
   "full_list_url": "https://raw.githubusercontent.com/Xeroint-Technologies/x-samp-mobile/main/data/full.json",
   "lite_list_url": "https://raw.githubusercontent.com/Xeroint-Technologies/x-samp-mobile/main/data/lite.json",
   "samp_list_url": "https://raw.githubusercontent.com/Xeroint-Technologies/x-samp-mobile/main/data/samp.json"
