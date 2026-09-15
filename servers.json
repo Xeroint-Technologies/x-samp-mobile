@@ -1,11 +1,12 @@
 {
   "servers": [
     {
-      "host": "103.123.45.67",
-      "port": "7777"
+      "host": "123.123.123.123",
+      "port": "7777",
+      "pw": "passwordserver"
     },
     {
-      "host": "play.serverpartner.com",
+      "host": "play.server.com",
       "port": "7777"
     }
   ]
