@@ -6,8 +6,8 @@
       "pw": "passwordserver"
     },
     {
-      "host": "play.server.com",
-      "port": "7777"
+      "host": "play.uifserver.com",
+      "port": "7776"
     }
   ]
 }
